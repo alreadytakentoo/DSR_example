@@ -1,3 +1,4 @@
+first line conflict
 something
 more
 and more
