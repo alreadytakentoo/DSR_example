@@ -6,4 +6,4 @@ yet more
 And now for a dog
 whooo hooo, editing in the browser
 a bit more...
-a conflict thats gonna be a problem
+now the conflict is no longer a problem 
