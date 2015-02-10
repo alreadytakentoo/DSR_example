@@ -5,3 +5,4 @@ yet more
 And now for a dog
 whooo hooo, editing in the browser
 a bit more...
+a conflict
